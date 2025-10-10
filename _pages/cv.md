@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Suri Skomra - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,74 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sis39@cornell.edu](mailto:sis39@cornell.edu) | | | **Phone:** +415 235 0353
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring mechanical engineer passionate about robotics, biomedical innovation, and applying technical design to solve real-world challenges.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.30 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Princeton High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2024]
+
+- **Convent High School**  
+  *Freshmen Year*  
+  Graduation: [May, 2021]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Autodesk Fusion** 
+- **Data Collection**  
+- **Project Management** 
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Organic Robotics Laboratory, Cornell University**:  
+  *Arduino-based robotic sensing project for non-invasive plant root analysis.*  
+  - Built a robotic system integrating cameras and sensors to navigate underground tubes.  
+  - Enabled non-destructive imaging for assessing root health and soil conditions.  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Brain MRI Tumor Detection Research:**:  
+  *Developed a machine learning algorithm for early identification of tumor-indicative features in MRI scans.*  
+  - Collaborated with Dr. Amirali Najafi at Princeton University to preprocess and analyze MRI data.  
+  - Contributed to improving diagnostic accuracy through automated image feature extraction.  
+
+  - **Cardiac Tissue Regeneration Research:**:  
+  *Investigated bioengineering methods for repairing scarred cardiac tissue at Stanford University School of Medicine.*  
+  - Studied vascular anastomosis and valve suturing techniques related to tissue scarring.  
+  - Collaborated on designing a conductive patch to restore electrical continuity in damaged cardiac tissue. 
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Tiger Tutors - Founder**  
+  12/2021 – 07/2023  
+  - Created and led a math tutoring program at Camden Middle School in Camden, NJ.  
+  - Recruited and organized volunteers to tutor 8th grade students in mathematics.
+  - Raised $2,000 to purchase and donate computers to support student learning.  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Gold Key Award, Princeton High School, [2023]  
+- Tres Bien Academically Strong and Enthusiastic, [Convent High School], [2020]  
+- Tres Bien Art, [Convent High School], [2020]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell's Triatholon Club  
+- Member of Cornell's Persian Student Origanization Club  
 
 ---
 
