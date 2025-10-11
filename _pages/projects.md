@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suri Skomra - Portfolio
+title: Home
 permalink: /projects/
 ---
 

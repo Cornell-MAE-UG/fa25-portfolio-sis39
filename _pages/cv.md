@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suri Skomra - Curriculum Vitae
+title: Home
 permalink: /cv/
 ---
 ## Curriculum Vitae
