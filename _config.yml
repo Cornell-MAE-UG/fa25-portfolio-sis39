@@ -5,19 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-url: "https://cornell-mae-ug.github.io"
-baseurl: "/fa25-portfolio-sis39"
-
-
-
 # Site Settings
 locale                   : "en-US"
-title                    : Suri Skomra
+title                    : "Suri Skomra"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Suri Skomra
-description              : Suri Skomra - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : "Suri Skomra"
+description              : "Suri Skomra - Projects and CV" 
+baseurl                  : "/fa25-portfolio-sis39-maker/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
