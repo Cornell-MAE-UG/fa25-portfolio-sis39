@@ -20,7 +20,7 @@ Aspiring mechanical engineer passionate about robotics, biomedical innovation, a
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 3.30 | Graduation: May, 2028
+  Graduation: May, 2028
 
 - **Princeton High School**  
   *High School Diploma*  
