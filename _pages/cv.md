@@ -39,30 +39,27 @@ Aspiring mechanical engineer passionate about robotics, biomedical innovation, a
 
 ---
 
-#### Projects
-- **Organic Robotics Laboratory, Cornell University**:  
-  *Arduino-based robotic sensing project for non-invasive plant root analysis.*  
-  - Built a robotic system integrating cameras and sensors to navigate underground tubes.  
-  - Enabled non-destructive imaging for assessing root health and soil conditions.  
+#### Experience
+
+- **Northstar Earth and Space | Montreal, Quebec, Canada - Intern**
+Contributing to the development of AI-driven remote sensing models using multimodal satellite data.
+Working with TerraMind, a geospatial foundation model, to support applications such as flood and burn scar
+detection.Assisting in fine-tuning models using TerraTorch and PyTorch Lightning for downstream geospatial tasks.
+
+- **Organic Robotics Laboratory, Cornell University -Research Assistant**:  
+Arduino-based robotic sensing project for non-invasive plant root analysis.
+Built a robotic system integrating cameras and sensors to navigate underground tubes.
+Enabled non-destructive imaging for assessing root health and soil conditions.  
 
 - **Brain MRI Tumor Detection Research:**:  
-  *Developed a machine learning algorithm for early identification of tumor-indicative features in MRI scans.*  
-  - Collaborated with Dr. Amirali Najafi at Princeton University to preprocess and analyze MRI data.  
-  - Contributed to improving diagnostic accuracy through automated image feature extraction.  
+Developed a machine learning algorithm for early identification of tumor-indicative features in MRI scans.  
+Collaborated with Dr. Amirali Najafi at Princeton University to preprocess and analyze MRI data.  
+Contributed to improving diagnostic accuracy through automated image feature extraction.  
 
-  - **Cardiac Tissue Regeneration Research:**:  
-  *Investigated bioengineering methods for repairing scarred cardiac tissue at Stanford University School of Medicine.*  
-  - Studied vascular anastomosis and valve suturing techniques related to tissue scarring.  
-  - Collaborated on designing a conductive patch to restore electrical continuity in damaged cardiac tissue. 
-
----
-
-#### Work Experience
-- **Tiger Tutors - Founder**  
-  12/2021 – 07/2023  
-  - Created and led a math tutoring program at Camden Middle School in Camden, NJ.  
-  - Recruited and organized volunteers to tutor 8th grade students in mathematics.
-  - Raised $2,000 to purchase and donate computers to support student learning.  
+- **Cardiac Tissue Regeneration Research:**:  
+Investigated bioengineering methods for repairing scarred cardiac tissue at Stanford University School of Medicine.  
+Studied vascular anastomosis and valve suturing techniques related to tissue scarring.  
+Collaborated on designing a conductive patch to restore electrical continuity in damaged cardiac tissue. 
 
 ---
 
