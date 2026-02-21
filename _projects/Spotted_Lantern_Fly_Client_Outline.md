@@ -6,7 +6,7 @@ image: /assets/images/SLFPrototype.jpg
 ---
 <div style="text-align:center;">
   <img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}"
-       style="max-width:600px !important; width:100% !important; height:auto !important;">
+       style="max-width:500px !important; width:100% !important; height:auto !important;">
 </div>
 
 **Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
