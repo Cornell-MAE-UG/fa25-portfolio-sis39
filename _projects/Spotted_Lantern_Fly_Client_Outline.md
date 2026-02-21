@@ -4,7 +4,6 @@ title: Spotted Lantern Fly Client Outline
 description: Mechanical Design (MAE2250) – Client outline and pitch sent to Cornell CALS Extension, E&J Gallo Winery, and National Grape that discusses a possible prototype for solving the problem with spotted lantern flies invading vineyards on the East Coast.
 image: /assets/images/radio-machine-cad.jpg
 ---
-![Photo of SLFPrototype]({{ '/assets/images/SLFPrototype.jpg' | relative_url }})
 
 **Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
@@ -57,6 +56,8 @@ One potential prototype we have discussed is a conveyor belt that utilizes pneum
 5. Is it easy for current harvesters to be retrofitted, or would a new harvester have to be created?
 
 ---
+
+<img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}" width="600">
 
 ## References
 
