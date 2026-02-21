@@ -5,7 +5,7 @@ description: Mechanical Design (MAE2250) – Client outline and pitch sent to Co
 image: /assets/images/SLFPrototype.jpg
 ---
 **Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
-
+*Figure 1: Proposed inline sorting system.*
 ---
 
 ## Problem Statement
@@ -66,4 +66,4 @@ WECO Sorting – "The Science of Optical Sorting," A Duravant Company. "WECO Tom
 
 ---
 
-*Figure 1: Proposed inline sorting system.*
+
