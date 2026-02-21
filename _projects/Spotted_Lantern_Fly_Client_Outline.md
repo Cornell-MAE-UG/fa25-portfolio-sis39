@@ -4,10 +4,9 @@ title: Spotted Lantern Fly Client Outline
 description: Mechanical Design (MAE2250) – Client outline and pitch sent to Cornell CALS Extension, E&J Gallo Winery, and National Grape that discusses a possible prototype for solving the problem with spotted lantern flies invading vineyards on the East Coast.
 image: /assets/images/radio-machine-cad.jpg
 ---
-
 <div style="text-align:center;">
-  <img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}" 
-       style="max-width:600px; width:100%; height:auto;">
+  <img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}"
+       style="max-width:600px !important; width:100% !important; height:auto !important;">
 </div>
 
 **Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
