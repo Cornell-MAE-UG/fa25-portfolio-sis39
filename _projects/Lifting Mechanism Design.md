@@ -4,7 +4,10 @@ title: Lifting Mechanism Design
 description: Statics and Mechanics of Solids Project – Design of a 2D lifting mechanism using a rigid bar, pin supports, and a linear actuator. 
 image: /assets/images/radio-machine-cad.jpg
 ---
-![Photo of Lifting Mechanism Design]({{ '/assets/images/Design.jpg' | relative_url }})
+<div style="text-align:center;">
+  <img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}"
+       style="max-width:600px !important; width:100% !important; height:auto !important;">
+</div>
 
 In this project, I was asked to design a two-dimensional lifting mechanism within a 150 cm by 50 cm workspace. The design was required to use a rigid bar of fixed length, three pin supports (two mounted on the ground), and a single linear actuator selected from the Tolomatic IMA catalog. The goal was to create a rigid frame or mechanism capable of lifting the maximum possible load to the greatest possible height, assuming all supports, bars, and actuators are rigid.
 
