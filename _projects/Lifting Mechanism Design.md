@@ -5,7 +5,7 @@ description: Statics and Mechanics of Solids Project – Design of a 2D lifting 
 image: /assets/images/radio-machine-cad.jpg
 ---
 <div style="text-align:center;">
-  <img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/Design.jpg' | relative_url }}"
        style="max-width:600px !important; width:100% !important; height:auto !important;">
 </div>
 
