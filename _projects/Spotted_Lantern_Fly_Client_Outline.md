@@ -1,3 +1,8 @@
+---
+title: "Spotted Lantern Fly Client Outline"
+collection: projects
+image: /assets/images/placeholder.png
+---
 # Inline Separation of Spotted Lanternflies
 
 **Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
