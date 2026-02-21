@@ -57,7 +57,10 @@ One potential prototype we have discussed is a conveyor belt that utilizes pneum
 
 ---
 
-<img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}" width="600">
+<div style="text-align:center;">
+  <img src="{{ '/assets/images/SLFPrototype.jpg' | relative_url }}" 
+       style="max-width:600px; width:100%; height:auto;">
+</div>
 
 ## References
 
