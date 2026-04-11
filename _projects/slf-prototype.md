@@ -1,6 +1,7 @@
 ---
 layout: project
-title: "SLF Inline Separation Prototype"
+title: SLF-Prototype
+image: /assets/images/slf_prototype.jpg
 ---
 
 ## Table of Contents
