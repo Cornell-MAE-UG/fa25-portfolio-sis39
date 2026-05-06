@@ -13,8 +13,8 @@ image: /assets/images/SLFPrototype.jpg
 - [Client Report](#client-report)
 
 
-
-
+---
+---
 ---
 
 ## Client Pitch
@@ -72,11 +72,13 @@ Kurtural, S. Kaan. *Mechanical Harvesting – Tools of the Trade.* Department of
 WECO Sorting – "The Science of Optical Sorting," A Duravant Company. "WECO TomatoTek II Sorter in Slow Motion." YouTube, 14 Apr. 2022. <https://www.youtube.com/watch?v=iSd4RgrFOtg>
 
 ---
-
-
+---
 ---
 
 ## Functional Prototype
+image: /assets/images/ODP5.jpg
+---
+*Figure 2: First Functional Prototype.*
 
 The functional prototype was designed to test the feasibility of mechanically removing spotted lanternfly (SLF) models from grape clusters using an inline system. The prototype consists of a rotating brush mounted on a shaft, powered by a drill, along with a manually simulated conveyor system. :contentReference[oaicite:0]{index=0}  
 
@@ -184,10 +186,14 @@ Based on testing, the following improvements are recommended:
 
 These improvements are expected to increase SLF removal efficiency toward the 90% target while maintaining grape integrity.
 
-
 ---
-
+---
+---
 ## Client Report
+image: /assets/images/ODP61.jpg
+image: /assets/images/ODP62.jpg
+---
+*Figure 3: Final, Working Prototype.*
 
 ### Context and Problem Statement
 
@@ -200,7 +206,7 @@ Develop an inline mechanical system that removes SLF during harvesting while mai
 
 ---
 
-### Client Report
+### Final Solution and System Design
 
 The final proposed solution is a **modular inline separation system** that combines mechanical agitation and pneumatic separation to remove SLF during conveyor transport. :contentReference[oaicite:3]{index=3}  
 
@@ -273,5 +279,3 @@ Based on testing and analysis, the following improvements are recommended:
 - Conduct testing under higher throughput conditions representative of commercial harvesters  
 
 These improvements will increase system consistency, efficiency, and scalability, supporting future development toward full-scale implementation. :contentReference[oaicite:8]{index=8}  
-
-
