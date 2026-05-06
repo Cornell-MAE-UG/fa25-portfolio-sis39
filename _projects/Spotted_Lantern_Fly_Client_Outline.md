@@ -75,7 +75,7 @@ WECO Sorting – "The Science of Optical Sorting," A Duravant Company. "WECO Tom
 ---
 
 ## Functional Prototype
-![First Functional Prototype](/assets/images/ODP5.jpg)
+![First Functional Prototype]({{ '/assets/images/ODP5.jpg' | relative_url }})
 *Figure 2: First Functional Prototype.*
 
 The functional prototype was designed to test the feasibility of mechanically removing spotted lanternfly (SLF) models from grape clusters using an inline system. The prototype consists of a rotating brush mounted on a shaft, powered by a drill, along with a manually simulated conveyor system. :contentReference[oaicite:0]{index=0}  
@@ -188,10 +188,12 @@ These improvements are expected to increase SLF removal efficiency toward the 90
 ---
 ---
 ## Client Report
-![Final Prototype 1](/assets/images/ODP61.jpg)
-![Final Prototype 2](/assets/images/ODP62.jpg)
-*Figure 3: Final, Working Prototype.*
+<div style="display: flex; gap: 10px;">
+  <img src="{{ '/assets/images/ODP61.jpg' | relative_url }}" width="50%">
+  <img src="{{ '/assets/images/ODP62.jpg' | relative_url }}" width="50%">
+</div>
 
+<p><em>Figure 3: Final, Working Prototype.</em></p>
 ### Context and Problem Statement
 
 Mechanical grape harvesting operates at industrial scales of approximately 2–3 tons per hour, but this process unintentionally collects Spotted Lanternflies (SLF) along with harvested grapes. Even very low contamination levels (1–2 insects per 1000 g) can result in rejected loads due to quality control and regulatory requirements. :contentReference[oaicite:0]{index=0}  
