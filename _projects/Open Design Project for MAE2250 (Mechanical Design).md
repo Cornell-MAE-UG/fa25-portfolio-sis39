@@ -7,7 +7,7 @@ description: Mechanical Design (MAE2250) — Client outline and pitch sent to Co
 **Team:** Di-Vine Intervention  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
-![Final Prototype](/assets/images/SLFPrototype.jpg)
+[Final Prototype]({{ "/assets/images/SLFPrototype.jpg" | relative_url }})
 
 *Figure 1: Final Prototype.*
 
@@ -18,6 +18,7 @@ description: Mechanical Design (MAE2250) — Client outline and pitch sent to Co
 - [Client Report](#client-report)
 
 ---
+
 ## Client Pitch
 
 ### Problem Statement
