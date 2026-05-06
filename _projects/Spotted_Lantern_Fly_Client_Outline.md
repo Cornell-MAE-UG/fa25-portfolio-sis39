@@ -75,7 +75,8 @@ WECO Sorting – "The Science of Optical Sorting," A Duravant Company. "WECO Tom
 ---
 
 ## Functional Prototype
-![First Functional Prototype]({{ '/assets/images/ODP5.jpg' | relative_url }})
+![First Functional Prototype](/fa25-portfolio-sis39/assets/images/ODP5.jpg)
+
 *Figure 2: First Functional Prototype.*
 
 The functional prototype was designed to test the feasibility of mechanically removing spotted lanternfly (SLF) models from grape clusters using an inline system. The prototype consists of a rotating brush mounted on a shaft, powered by a drill, along with a manually simulated conveyor system. :contentReference[oaicite:0]{index=0}  
@@ -189,8 +190,8 @@ These improvements are expected to increase SLF removal efficiency toward the 90
 ---
 ## Client Report
 <div style="display: flex; gap: 10px;">
-  <img src="{{ '/assets/images/ODP61.jpg' | relative_url }}" width="50%">
-  <img src="{{ '/assets/images/ODP62.jpg' | relative_url }}" width="50%">
+  <img src="/fa25-portfolio-sis39/assets/images/ODP61.jpg" style="width:50%;">
+  <img src="/fa25-portfolio-sis39/assets/images/ODP62.jpg" style="width:50%;">
 </div>
 
 <p><em>Figure 3: Final, Working Prototype.</em></p>
