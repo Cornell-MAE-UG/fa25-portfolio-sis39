@@ -5,23 +5,20 @@ description: Mechanical Design (MAE2250) – Client outline and pitch sent to Co
 image: /assets/images/SLFPrototype.jpg
 ---
 **Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
-*Figure 1: Proposed inline sorting system.*
+*Figure 1: Final Prototype.*
 ---
 
 ## Problem Statement
 
-During mechanical grape harvesting, Spotted Lanternflies (SLF) present on vines are collected with grapes and transported through conveyor systems into storage bins. More than 1–2 SLF per 1000 g can trigger contamination concerns and rejected loads. A single mechanical harvester processes roughly 2–3 tons/hour, meaning contamination risk occurs continuously at a commercial scale. Current harvest streams contain crushed fruit, stems, juice, and debris ("grape soup"), so post-harvest washing or manual sorting can remove up to ~50% of usable yield and is not viable at throughput. We aim to design an inline mechanical system that removes SLF during conveyance without bruising grapes, slowing harvest rate, or requiring major harvester redesign.
+The infamous, invasive spotted lantern fly has plagued the east coast for years and now are infiltrating our vineyards. If only 1–2 SLF are found per 1000 g of grapes, the whole batch is rejected, leaving vineyard managers searching for means to rid of them. During mechanical grape harvesting, SLF (Spotted Lanternflies) present on vines are collected with grapes and transported through conveyor systems into storage bins. A single mechanical harvester processes roughly 2–3 tons/hour, meaning contamination risk occurs continuously at a commercial scale. Current harvest streams contain crushed fruit, stems, juice, and debris ("grape soup"), so post-harvest washing or manual sorting can remove up to ~50% of usable yield and is not viable at throughput. The system must operate without bruising grapes, reducing harvest speed, or requiring major modifications to existing harvesters.
 
 ---
 
-## Why It Matters to the End User
+## Why This Matters to the End User
 
-Growers and processors lose economic value when contaminated loads are downgraded or discarded. A reliable inline separator would preserve yield, reduce labor-intensive inspection, and allow uninterrupted harvest at commercial speed.
-
-If this problem is successfully addressed, the likelihood of SLF contamination would be reduced, there would be an increase in production, and it would also be less disruptive to the ecosystems since it would be performed post-harvest.
+Growers and processors lose economic value when contaminated loads are downgraded or discarded. A reliable inline separator would preserve yield, reduce labor-intensive inspection, and allow uninterrupted harvest at commercial speed. If this problem is successfully addressed, the likelihood of SLF contamination would be reduced, there would be an increase in production, and it would also be less disruptive to the ecosystems since it would be performed post-harvest.
 
 ---
-
 ## Proposed Direction
 
 ### 1. SLF Inline Sorter
