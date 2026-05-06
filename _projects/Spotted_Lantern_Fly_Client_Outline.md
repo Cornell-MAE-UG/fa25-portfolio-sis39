@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Spotted Lantern Fly Client Outline
+title: Open Design Project for MAE2250 (Mechanical Design)
 description: Mechanical Design (MAE2250) – Client outline and pitch sent to Cornell CALS Extension, E&J Gallo Winery, and National Grape that discusses a possible prototype for solving the problem with spotted lantern flies invading vineyards on the East Coast.
 image: /assets/images/SLFPrototype.jpg
 ---
@@ -19,7 +19,7 @@ image: /assets/images/SLFPrototype.jpg
 ## Client Pitch
 ## Problem Statement
 
-The infamous, invasive spotted lantern fly has plagued the east coast for years and now are infiltrating our vineyards. If only 1–2 SLF are found per 1000 g of grapes, the whole batch is rejected, leaving vineyard managers searching for means to rid of them. During mechanical grape harvesting, SLF (Spotted Lanternflies) present on vines are collected with grapes and transported through conveyor systems into storage bins. A single mechanical harvester processes roughly 2–3 tons/hour, meaning contamination risk occurs continuously at a commercial scale. Current harvest streams contain crushed fruit, stems, juice, and debris ("grape soup"), so post-harvest washing or manual sorting can remove up to ~50% of usable yield and is not viable at throughput. The system must operate without bruising grapes, reducing harvest speed, or requiring major modifications to existing harvesters.
+The infamous, invasive spotted lantern fly has plagued the east coast for years and are now infiltrating our vineyards. If only 1–2 SLF are found per 1000 g of grapes, the whole batch is rejected, leaving vineyard managers searching for means to rid of them. During mechanical grape harvesting, SLF (Spotted Lanternflies) present on vines are collected with grapes and transported through conveyor systems into storage bins. A single mechanical harvester processes roughly 2–3 tons/hour, meaning contamination risk occurs continuously at a commercial scale. Current harvest streams contain crushed fruit, stems, juice, and debris ("grape soup"), so post-harvest washing or manual sorting can remove up to ~50% of usable yield and is not viable at throughput. The system must operate without bruising grapes, reducing harvest speed, or requiring major modifications to existing harvesters.
 
 ---
 
@@ -79,7 +79,7 @@ WECO Sorting – "The Science of Optical Sorting," A Duravant Company. "WECO Tom
 
 *Figure 2: First Functional Prototype.*
 
-The functional prototype was designed to test the feasibility of mechanically removing spotted lanternfly (SLF) models from grape clusters using an inline system. The prototype consists of a rotating brush mounted on a shaft, powered by a drill, along with a manually simulated conveyor system. :contentReference[oaicite:0]{index=0}  
+The functional prototype was designed to test the feasibility of mechanically removing spotted lanternfly (SLF) models from grape clusters using an inline system. The prototype consists of a rotating brush mounted on a shaft, powered by a drill, along with a manually simulated conveyor system. 
 
 ### System Overview
 
@@ -104,7 +104,7 @@ The prototype was constructed using the following components:
 - **Fastening/Assembly:** Zip ties and glue  
 - **Collection System:** Cardboard trough to capture removed SLF  
 
-The shaft was machined to ensure proper fit and alignment with the drill, and brush sections were spaced evenly to maximize coverage. :contentReference[oaicite:1]{index=1}  
+The shaft was machined to ensure proper fit and alignment with the drill, and brush sections were spaced evenly to maximize coverage. 
 
 ---
 
@@ -150,7 +150,7 @@ The prototype was tested across multiple categories to evaluate performance:
 - System remained stable across multiple setups  
 - Minor issues with brush alignment and zip tie shifting  
 
-Overall, the prototype demonstrated moderate effectiveness but did not yet meet the target goal of 90% SLF removal. :contentReference[oaicite:2]{index=2}  
+Overall, the prototype demonstrated moderate effectiveness but did not yet meet the target goal of 90% SLF removal. 
 
 ---
 
@@ -195,20 +195,21 @@ These improvements are expected to increase SLF removal efficiency toward the 90
 </div>
 
 <p><em>Figure 3: Final, Working Prototype.</em></p>
+
 ### Context and Problem Statement
 
-Mechanical grape harvesting operates at industrial scales of approximately 2–3 tons per hour, but this process unintentionally collects Spotted Lanternflies (SLF) along with harvested grapes. Even very low contamination levels (1–2 insects per 1000 g) can result in rejected loads due to quality control and regulatory requirements. :contentReference[oaicite:0]{index=0}  
+Mechanical grape harvesting operates at industrial scales of approximately 2–3 tons per hour, but this process unintentionally collects Spotted Lanternflies (SLF) along with harvested grapes. Even very low contamination levels (1–2 insects per 1000 g) can result in rejected loads due to quality control and regulatory requirements.
 
-Current mitigation methods such as manual sorting and post-harvest washing are not viable at commercial scale. These approaches reduce throughput, increase labor demand, and disrupt continuous harvesting operations. :contentReference[oaicite:1]{index=1}  
+Current mitigation methods such as manual sorting and post-harvest washing are not viable at commercial scale. These approaches reduce throughput, increase labor demand, and disrupt continuous harvesting operations.
 
 **Design Objective:**  
-Develop an inline mechanical system that removes SLF during harvesting while maintaining throughput, minimizing grape damage, and remaining compatible with existing conveyor-based systems. :contentReference[oaicite:2]{index=2}  
+Develop an inline mechanical system that removes SLF during harvesting while maintaining throughput, minimizing grape damage, and remaining compatible with existing conveyor-based systems.
 
 ---
 
 ### Final Solution and System Design
 
-The final proposed solution is a **modular inline separation system** that combines mechanical agitation and pneumatic separation to remove SLF during conveyor transport. :contentReference[oaicite:3]{index=3}  
+The final proposed solution is a **modular inline separation system** that combines mechanical agitation and pneumatic separation to remove SLF during conveyor transport. 
 
 #### System Architecture
 
@@ -225,7 +226,7 @@ The system consists of three main subsystems:
 3. A directed airflow removes the lighter SLF from the stream  
 4. Grapes continue forward to collection, while SLF are diverted into a separate bin  
 
-This process is designed as a **continuous inline system**, making it compatible with high-throughput harvesting environments. :contentReference[oaicite:4]{index=4}  
+This process is designed as a **continuous inline system**, making it compatible with high-throughput harvesting environments. 
 
 ---
 
@@ -242,7 +243,7 @@ A scaled prototype was developed to replicate the key mechanisms of the system:
 The design evolved through multiple iterations, including:
 - Replacing an initial geared conveyor due to jamming  
 - Improving brush mounting to prevent independent rotation  
-- Adjusting brush alignment and height for better contact consistency :contentReference[oaicite:5]{index=5}  
+- Adjusting brush alignment and height for better contact consistency
 
 ---
 
@@ -257,7 +258,7 @@ Testing was conducted using grape clusters and representative SLF models to eval
 - **Optimal operating condition:** ~500 RPM brush speed with high airflow  
 - **Grape integrity:** No significant visible damage  
 
-Performance variation was primarily caused by **non-uniform brush contact**, indicating a need for improved mechanical consistency across the conveyor width. :contentReference[oaicite:6]{index=6}  
+Performance variation was primarily caused by **non-uniform brush contact**, indicating a need for improved mechanical consistency across the conveyor width.
 
 ---
 
@@ -265,7 +266,7 @@ Performance variation was primarily caused by **non-uniform brush contact**, ind
 
 The prototype demonstrates that a combined mechanical and pneumatic inline system can significantly reduce SLF contamination without interrupting harvest throughput or damaging grapes.
 
-While the current system does not yet meet the 90% removal target, it validates the core concept and shows strong potential for scalability and real-world application. :contentReference[oaicite:7]{index=7}  
+While the current system does not yet meet the 90% removal target, it validates the core concept and shows strong potential for scalability and real-world application.
 
 ---
 
@@ -278,4 +279,4 @@ Based on testing and analysis, the following improvements are recommended:
 - Integrate vacuum-based capture to prevent SLF from re-entering the system  
 - Conduct testing under higher throughput conditions representative of commercial harvesters  
 
-These improvements will increase system consistency, efficiency, and scalability, supporting future development toward full-scale implementation. :contentReference[oaicite:8]{index=8}  
+These improvements will increase system consistency, efficiency, and scalability, supporting future development toward full-scale implementation. 
