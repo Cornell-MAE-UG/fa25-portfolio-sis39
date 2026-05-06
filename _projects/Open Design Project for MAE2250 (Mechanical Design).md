@@ -33,14 +33,14 @@ The infamous, invasive spotted lantern fly has plagued the east coast for years 
 
 ---
 
-## Why This Matters to the End User
+### Why This Matters to the End User
 
 Growers and processors lose economic value when contaminated loads are downgraded or discarded. A reliable inline separator would preserve yield, reduce labor-intensive inspection, and allow uninterrupted harvest at commercial speed. If this problem is successfully addressed, the likelihood of SLF contamination would be reduced, there would be an increase in production, and it would also be less disruptive to the ecosystems since it would be performed post-harvest.
 
 ---
-## Proposed Direction
+### Proposed Direction
 
-### 1. SLF Inline Sorter
+1. SLF Inline Sorter
 
 One potential prototype we have discussed is a conveyor belt that utilizes pneumatic and physical sorting to remove SLF from the grape mass that is collected by a mechanical grape harvester. The sorting system would consist of:
 
@@ -54,7 +54,7 @@ One potential prototype we have discussed is a conveyor belt that utilizes pneum
 
 ---
 
-## Key Risks / Unknowns
+### Key Risks / Unknowns
 
 1. Our solution only mitigates the problem, but doesn't handle the harmful effects SLF have on the vitality/productivity of grape vines. Could lead to reduced yields from harvests.
 2. Volumetric flow rate of grapes on the conveyor belt. If this is too high, it will be very hard to sort bugs underneath large amounts of grapes. Also, a challenge if grapes/bugs get smushed together.
@@ -62,7 +62,7 @@ One potential prototype we have discussed is a conveyor belt that utilizes pneum
 
 ---
 
-## Questions for the Client
+### Questions for the Client
 
 1. Are there any sanitation or cleaning requirements for inline equipment?
 2. What is the maximum ground speed the harvester must operate at while still being considered effective? And how much can the speed be adjusted?
@@ -72,7 +72,7 @@ One potential prototype we have discussed is a conveyor belt that utilizes pneum
 
 ---
 
-## References
+### References
 
 evokeAG. "Harvest Optimisation Technology to Remove Matter Other than Grape (MOG)." YouTube, 26 July 2021. <https://www.youtube.com/watch?v=JEM50O9d-M8>
 
