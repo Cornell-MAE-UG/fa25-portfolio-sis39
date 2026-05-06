@@ -185,3 +185,93 @@ Based on testing, the following improvements are recommended:
 These improvements are expected to increase SLF removal efficiency toward the 90% target while maintaining grape integrity.
 
 
+---
+
+## Client Report
+
+### Context and Problem Statement
+
+Mechanical grape harvesting operates at industrial scales of approximately 2–3 tons per hour, but this process unintentionally collects Spotted Lanternflies (SLF) along with harvested grapes. Even very low contamination levels (1–2 insects per 1000 g) can result in rejected loads due to quality control and regulatory requirements. :contentReference[oaicite:0]{index=0}  
+
+Current mitigation methods such as manual sorting and post-harvest washing are not viable at commercial scale. These approaches reduce throughput, increase labor demand, and disrupt continuous harvesting operations. :contentReference[oaicite:1]{index=1}  
+
+**Design Objective:**  
+Develop an inline mechanical system that removes SLF during harvesting while maintaining throughput, minimizing grape damage, and remaining compatible with existing conveyor-based systems. :contentReference[oaicite:2]{index=2}  
+
+---
+
+### Client Report
+
+The final proposed solution is a **modular inline separation system** that combines mechanical agitation and pneumatic separation to remove SLF during conveyor transport. :contentReference[oaicite:3]{index=3}  
+
+#### System Architecture
+
+The system consists of three main subsystems:
+
+- **Conveyor Transport System** – maintains continuous flow of grapes  
+- **Rotary Brush Subsystem** – mechanically dislodges SLF from grape clusters  
+- **Airflow Subsystem** – separates SLF from grapes using aerodynamic differences  
+
+#### How the System Works
+
+1. Grapes move along a conveyor in a continuous flow  
+2. A rotating brush agitates the grape clusters, dislodging attached SLF  
+3. A directed airflow removes the lighter SLF from the stream  
+4. Grapes continue forward to collection, while SLF are diverted into a separate bin  
+
+This process is designed as a **continuous inline system**, making it compatible with high-throughput harvesting environments. :contentReference[oaicite:4]{index=4}  
+
+---
+
+### Prototype Implementation
+
+A scaled prototype was developed to replicate the key mechanisms of the system:
+
+- Conveyor simulated using cardboard rollers and a paper belt  
+- Rotary brush driven by a drill through a machined shaft  
+- Airflow system simulated using a hair dryer  
+- Separate collection bins for grapes and SLF  
+- Wooden frame used for structural support  
+
+The design evolved through multiple iterations, including:
+- Replacing an initial geared conveyor due to jamming  
+- Improving brush mounting to prevent independent rotation  
+- Adjusting brush alignment and height for better contact consistency :contentReference[oaicite:5]{index=5}  
+
+---
+
+### Testing and Results
+
+Testing was conducted using grape clusters and representative SLF models to evaluate system performance.
+
+#### Key Performance Outcomes:
+
+- **Average SLF removal efficiency:** 72%  
+- **Efficiency variation:** 57%–100% across conveyor width  
+- **Optimal operating condition:** ~500 RPM brush speed with high airflow  
+- **Grape integrity:** No significant visible damage  
+
+Performance variation was primarily caused by **non-uniform brush contact**, indicating a need for improved mechanical consistency across the conveyor width. :contentReference[oaicite:6]{index=6}  
+
+---
+
+### Conclusion
+
+The prototype demonstrates that a combined mechanical and pneumatic inline system can significantly reduce SLF contamination without interrupting harvest throughput or damaging grapes.
+
+While the current system does not yet meet the 90% removal target, it validates the core concept and shows strong potential for scalability and real-world application. :contentReference[oaicite:7]{index=7}  
+
+---
+
+### Recommendations and Next Steps
+
+Based on testing and analysis, the following improvements are recommended:
+
+- Improve brush uniformity to ensure consistent contact across full conveyor width  
+- Replace the temporary airflow source with a controlled compressed air system (target: 5–10 m/s)  
+- Integrate vacuum-based capture to prevent SLF from re-entering the system  
+- Conduct testing under higher throughput conditions representative of commercial harvesters  
+
+These improvements will increase system consistency, efficiency, and scalability, supporting future development toward full-scale implementation. :contentReference[oaicite:8]{index=8}  
+
+
