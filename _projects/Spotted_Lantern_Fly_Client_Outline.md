@@ -69,3 +69,114 @@ WECO Sorting – "The Science of Optical Sorting," A Duravant Company. "WECO Tom
 ---
 
 
+---
+
+## Functional Prototype
+
+The functional prototype was designed to test the feasibility of mechanically removing spotted lanternfly (SLF) models from grape clusters using an inline system. The prototype consists of a rotating brush mounted on a shaft, powered by a drill, along with a manually simulated conveyor system. :contentReference[oaicite:0]{index=0}  
+
+### System Overview
+
+The system operates by combining rotational brushing with conveyor motion. Grape clusters are placed on a flat conveyor surface and passed under a rotating brush. The brush dislodges SLF models from the grapes, and the removed material is directed into a collection trough.
+
+The process follows these steps:
+1. Grapes with SLF models are placed on the conveyor surface  
+2. The brush rotates at a controlled speed (target: 450–500 RPM)  
+3. The conveyor moves the grapes beneath the brush  
+4. SLF models are dislodged and collected separately  
+
+---
+
+### Components and Materials
+
+The prototype was constructed using the following components:
+
+- **Shaft:** 1 ft low-carbon steel rod, machined to fit a drill chuck  
+- **Brush:** Polyester strip brush sections mounted along the shaft  
+- **Motor:** DeWalt drill used to provide rotational motion  
+- **Conveyor Simulation:** Cardboard base with wooden supports  
+- **Fastening/Assembly:** Zip ties and glue  
+- **Collection System:** Cardboard trough to capture removed SLF  
+
+The shaft was machined to ensure proper fit and alignment with the drill, and brush sections were spaced evenly to maximize coverage. :contentReference[oaicite:1]{index=1}  
+
+---
+
+### Assembly Process
+
+The prototype was assembled in several stages:
+
+- Shaft preparation and machining for drill compatibility  
+- Mounting brush sections evenly along the shaft  
+- Securing the shaft within a wooden support structure  
+- Setting up the conveyor simulation using cardboard  
+- Adding a partition and collection trough  
+- Integrating all components into a working system  
+
+The final system allowed consistent rotation and repeatable testing conditions.
+
+---
+
+### Testing and Evaluation
+
+The prototype was tested across multiple categories to evaluate performance:
+
+#### 1. Brush Rotation Speed
+- Tested from 450 to 650 RPM  
+- Optimal performance observed at ~500 RPM  
+- Higher speeds increased grape displacement without improving removal  
+
+#### 2. Brush Coverage
+- Uneven SLF removal across width due to spacing between brush sections  
+- Center performed best; edges showed gaps  
+
+#### 3. Conveyor Stability
+- Some grape clusters fell off due to lack of side support  
+- Highlighted need for structural reinforcement  
+
+#### 4. SLF Removal Efficiency
+- Average removal efficiency: **72%**  
+- Range: **65%–78% per trial**  
+- No visible grape damage observed  
+
+#### 5. Assembly Repeatability
+- Average assembly time: ~9 minutes  
+- System remained stable across multiple setups  
+- Minor issues with brush alignment and zip tie shifting  
+
+Overall, the prototype demonstrated moderate effectiveness but did not yet meet the target goal of 90% SLF removal. :contentReference[oaicite:2]{index=2}  
+
+---
+
+### Performance Summary
+
+- SLF Removal Efficiency: ~72% average  
+- Target Efficiency: 90%  
+- Optimal Brush Speed: 450–500 RPM  
+- Assembly Time: ~9 minutes  
+- Grape Damage: None observed  
+
+---
+
+### Key Limitations
+
+- Incomplete SLF removal due to brush spacing  
+- Grape displacement caused by unstable conveyor surface  
+- Manual conveyor simulation lacks consistency  
+- Limited control over brush speed  
+
+---
+
+### Design Improvements / Next Steps
+
+Based on testing, the following improvements are recommended:
+
+- Increase bristle density and overlap brush sections  
+- Add side walls or guides to stabilize grape movement  
+- Reinforce conveyor structure to reduce flexing  
+- Implement controlled motor system instead of manual drill  
+- Improve alignment and fastening for repeatability  
+
+These improvements are expected to increase SLF removal efficiency toward the 90% target while maintaining grape integrity.
+
+
