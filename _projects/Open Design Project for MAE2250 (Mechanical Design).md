@@ -1,25 +1,33 @@
 ---
 layout: project
 title: Open Design Project for MAE2250 (Mechanical Design)
-description: Mechanical Design (MAE2250) – Client outline and pitch sent to Cornell CALS Extension, E&J Gallo Winery, and National Grape that discusses a possible prototype for solving the problem with spotted lantern flies invading vineyards on the East Coast.
+description: Mechanical Design (MAE2250) — Client outline and pitch sent to Cornell CALS Extension, E&J Gallo Winery, and National Grape that discusses a possible prototype for solving the problem with spotted lantern flies invading vineyards on the East Coast.
 image: /assets/images/SLFPrototype.jpg
 ---
-**Team:** Di-Vine Intervention | **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
-*Figure 1: Final Prototype.*
----
----
----
-## Project Milestones
 
-- [Client Pitch](#client-pitch)
-- [Functional Prototype](#functional-prototype)
-- [Client Report](#client-report)
----
----
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 25px;">
+
+  <img src="/assets/images/SLFPrototype.jpg" width="250" style="border-radius: 8px;">
+
+  <div>
+    <p><strong>Team:</strong> Di-Vine Intervention</p>
+    <p><strong>Client(s):</strong> Cornell CALS Extension / E&J Gallo Winery / National Grape</p>
+    <p><em>Figure 1: Final Prototype.</em></p>
+
+    <h2>Project Milestones</h2>
+    <ul>
+      <li><a href="#client-pitch">Client Pitch</a></li>
+      <li><a href="#functional-prototype">Functional Prototype</a></li>
+      <li><a href="#client-report">Client Report</a></li>
+    </ul>
+  </div>
+
+</div>
+
 ---
 
 ## Client Pitch
-## Problem Statement
+### Problem Statement
 
 The infamous, invasive spotted lantern fly has plagued the east coast for years and are now infiltrating our vineyards. If only 1–2 SLF are found per 1000 g of grapes, the whole batch is rejected, leaving vineyard managers searching for means to rid of them. During mechanical grape harvesting, SLF (Spotted Lanternflies) present on vines are collected with grapes and transported through conveyor systems into storage bins. A single mechanical harvester processes roughly 2–3 tons/hour, meaning contamination risk occurs continuously at a commercial scale. Current harvest streams contain crushed fruit, stems, juice, and debris ("grape soup"), so post-harvest washing or manual sorting can remove up to ~50% of usable yield and is not viable at throughput. The system must operate without bruising grapes, reducing harvest speed, or requiring major modifications to existing harvesters.
 
