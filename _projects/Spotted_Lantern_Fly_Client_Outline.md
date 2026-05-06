@@ -11,8 +11,13 @@ image: /assets/images/SLFPrototype.jpg
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
 - [Client Report](#client-report)
+
+
+
+
 ---
 
+## Client Pitch
 ## Problem Statement
 
 The infamous, invasive spotted lantern fly has plagued the east coast for years and now are infiltrating our vineyards. If only 1–2 SLF are found per 1000 g of grapes, the whole batch is rejected, leaving vineyard managers searching for means to rid of them. During mechanical grape harvesting, SLF (Spotted Lanternflies) present on vines are collected with grapes and transported through conveyor systems into storage bins. A single mechanical harvester processes roughly 2–3 tons/hour, meaning contamination risk occurs continuously at a commercial scale. Current harvest streams contain crushed fruit, stems, juice, and debris ("grape soup"), so post-harvest washing or manual sorting can remove up to ~50% of usable yield and is not viable at throughput. The system must operate without bruising grapes, reducing harvest speed, or requiring major modifications to existing harvesters.
