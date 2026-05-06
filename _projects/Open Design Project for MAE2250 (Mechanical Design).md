@@ -7,8 +7,6 @@ image: /assets/images/SLFPrototype.jpg
 **Team:** Di-Vine Intervention  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
-[Final Prototype]({{ "/assets/images/SLFPrototype.jpg" | relative_url }})
-
 *Figure 1: Final Prototype.*
 
 ## Project Milestones
