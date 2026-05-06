@@ -2,22 +2,27 @@
 layout: project
 title: Open Design Project for MAE2250 (Mechanical Design)
 description: Mechanical Design (MAE2250) — Client outline and pitch sent to Cornell CALS Extension, E&J Gallo Winery, and National Grape that discusses a possible prototype for solving the problem with spotted lantern flies invading vineyards on the East Coast.
+image: /assets/images/SLFPrototype.jpg
 ---
 
-**Team:** Di-Vine Intervention  
-**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 25px;">
 
-<p align="center">
-  <img src="/assets/images/SLFPrototype.jpg" width="450">
-</p>
+  <img src="/assets/images/SLFPrototype.jpg" width="250" style="border-radius: 8px;">
 
-*Figure 1: Final Prototype.*
+  <div>
+    <p><strong>Team:</strong> Di-Vine Intervention</p>
+    <p><strong>Client(s):</strong> Cornell CALS Extension / E&J Gallo Winery / National Grape</p>
+    <p><em>Figure 1: Final Prototype.</em></p>
 
-## Project Milestones
+    <h2>Project Milestones</h2>
+    <ul>
+      <li><a href="#client-pitch">Client Pitch</a></li>
+      <li><a href="#functional-prototype">Functional Prototype</a></li>
+      <li><a href="#client-report">Client Report</a></li>
+    </ul>
+  </div>
 
-- [Client Pitch](#client-pitch)
-- [Functional Prototype](#functional-prototype)
-- [Client Report](#client-report)
+</div>
 
 ---
 
